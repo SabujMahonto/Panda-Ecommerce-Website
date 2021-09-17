@@ -40,3 +40,7 @@
 .cat3 {
   background-color: blue;
 }
+.card-footer {
+  background-color: white;
+  border-top: none;
+}
